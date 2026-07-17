@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: mcpserver
+  ai:
+    mcp:
+      server:
+        stdio: true
+        type: sync
+  main:
+    banner-mode: "off"
+    web-application-type: "none"
