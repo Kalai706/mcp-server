@@ -1,4 +1,4 @@
-# mcp-server
+# mcp-server for employee details
 MCP-server for Employee details. Created to demonstrate the usage of MCP-server with claude desktop.
 
 Steps to connect mcp server to claude desktop:
